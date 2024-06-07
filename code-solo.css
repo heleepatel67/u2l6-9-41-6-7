@@ -1,7 +1,5 @@
 /* CSS styling for code solo */
 
-/* 3. Select the sample-1 class. Using the display property, apply a value of flex. Using the justify-content property, apply a value of flex-start. */
-
 
 
 /* 4. Select the sample-2 class. Using the display property, apply a value of flex. Using the justify-content property, apply a value of space-between. */
@@ -29,5 +27,4 @@
     padding: 5px;
     border: 2px solid black;
     background: violet;
-
 }
